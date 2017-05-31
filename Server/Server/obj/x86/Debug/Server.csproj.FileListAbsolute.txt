@@ -1,0 +1,6 @@
+D:\Универ\4 сем\Курсач\Server\Server\bin\Debug\Server.exe
+D:\Универ\4 сем\Курсач\Server\Server\bin\Debug\Server.pdb
+D:\Универ\4 сем\Курсач\Server\Server\obj\x86\Debug\Server.exe
+D:\Универ\4 сем\Курсач\Server\Server\obj\x86\Debug\Server.pdb
+D:\Универ\4 сем\Курсач\Server\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Универ\4 сем\Курсач\Server\Server\bin\Debug\Server.exe.config
